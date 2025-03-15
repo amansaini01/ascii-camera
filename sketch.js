@@ -11,8 +11,10 @@
 
 // const density = "Ñ@#W$9876543210?!abc;:+=-,._                    ";
 const density = "           ..-~!$^*+=@?-<>";
-var w = prompt("Width");
-var h = prompt("height");
+//var w = prompt("Width");
+//var h = prompt("height");
+var w = 40;
+var h = 60;
 
 let video;
 let asciiDiv;
